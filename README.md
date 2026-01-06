@@ -14,7 +14,7 @@ The second, downloads each year as a folder, wherein you can then use index.html
 ```python
 pip install -r requirements.txt
 ```
-3. 
+3. Place the scrapers in some folder. Launch from there and it'll just save in a subfolder depending on which you use.
 
 # Usage
 
