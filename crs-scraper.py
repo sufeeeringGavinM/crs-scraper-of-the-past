@@ -25,7 +25,7 @@ for year in years:
         for letter in letters:
             permutations2.append(f"{year}-{year+1} {d}-{letter}")         
 
-where_Ya_wantit_Boss='It-all-be-saved-here'
+where_Ya_wantit_Boss='Scraper-1.0-Results'
 
 if where_Ya_wantit_Boss not in os.listdir():
     os.mkdir(where_Ya_wantit_Boss)
