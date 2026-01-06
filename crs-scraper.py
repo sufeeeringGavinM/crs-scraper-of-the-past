@@ -9,7 +9,8 @@ import string
 
 # change years as you will
 years = range(2000, 2025)  # inclusive (i.e., in this case it includes years 2000-2001 and 2025-2026)
-digits = ["1", "2", "4"]
+#digits = ["1", "2", "4"] # this includes the midyear
+digits = ["1", "2"]
 letters = list(string.ascii_uppercase)
 
 permutations = []
