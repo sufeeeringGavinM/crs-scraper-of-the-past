@@ -18,4 +18,8 @@ pip install -r requirements.txt
 
 # Usage
 
-Open whichever scraper you want. First version is titled crs-scraper.py, second is titled crs-scraper-2.0.py. First one opens a chrome browser to do the stuff (ie visit each webpage, download webpage, go to next, repeat etc) so don't be scared. Second one takes fucking forever so that's that.
+Open whichever scraper you want. First version is titled crs-scraper.py, second is titled crs-scraper-2.0.py. 
+
+First one opens a chrome browser to do the stuff (ie visit each webpage, download webpage, go to next, repeat etc) so don't be scared. Second one takes fucking forever so that's that.
+
+A folder will be created within the folder you put the scraper in depending on which scraper you use. Delete them if you wanna run the scrapers again for some reason.
