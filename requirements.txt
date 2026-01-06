@@ -2,3 +2,4 @@
 
 pywebcopy==7.1
 selenium==4.39.0
+legacy-cgi==2.6.4
