@@ -8,7 +8,7 @@ The second, downloads each year as a folder, wherein you can then use index.html
 
 # Installation
 
-1. Install Python and Chrome
+1. Install Python (necessary for both versions) and Chrome (necessary only for first)
 
 2. Install the requirements using the following command while your terminal/command prompt window is in the same folder as the included requirements.txt.
 ```python
