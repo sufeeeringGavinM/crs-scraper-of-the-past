@@ -1,3 +1,7 @@
+# Note
+I'm gonna be real. This project fucking BLOWS!! I don't remember why I used chrome webdriver even when i could've just used requests. Well, if you have that set up and a bunch of the other requirements, you'll be able to at least scrape through a few years of CRS class schedules. Anyways, if you want something nicer that isn't really SHIT, check out the other crs scraper in my github profile... which will come soon (Writing as of 1/16/2026)
+
+
 # Description
 
 Ever wanted to just download the entirety of UP Diliman's class schedules from the past and present? Well, here you've got that. Personally, I use this to see if there are any professors that only take certain time slots to "bypass" the CONCEALED thing.
