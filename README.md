@@ -1,5 +1,5 @@
 # Note
-I'm gonna be real. This project fucking BLOWS!! I don't remember why I used chrome webdriver even when i could've just used requests. Well, if you have that set up and a bunch of the other requirements, you'll be able to at least scrape through a few years of CRS class schedules. Anyways, if you want something nicer that isn't really SHIT, check out the other crs scraper in my github profile... which will come soon (Writing as of 1/16/2026)
+I'm gonna be real. This project fucking BLOWS!! I don't remember why I used chrome webdriver even when i could've just used requests. Well, if you have that set up and a bunch of the other requirements, you'll be able to at least scrape through a few years of CRS class schedules. Anyways, if you want something nicer that isn't really SHIT, check out the other crs scraper in my github profile... which will come soon (Writing as of 1/16/2026). Instead of shitty html files, it turns the entire thing into a spreadsheet! Yay!
 
 
 # Description
