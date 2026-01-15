@@ -2,7 +2,7 @@
 
 Ever wanted to just download the entirety of UP Diliman's class schedules from the past and present? Well, here you've got that. Personally, I use this to see if there are any professors that only take certain time slots to "bypass" the CONCEALED thing.
 
-The first, simply downloads every year specified (Read the .py file) and all letters as separate HTML files. For example, for the academic year 2000-2001, 1st semester, subjects starting sith letter B... this would be saved as 2000-2001 1-B.html
+The first, simply downloads every year specified (Read the .py file) and all letters as separate HTML files. For example, for the academic year 2000-2001, 1st semester, subjects starting sith letter B... this would be saved as 2000-2001 1-B.html. This version also needs chrome webdriver
 
 The second, downloads each year as a folder, wherein you can then use index.html within the folder to navigate the year through clicks and all. That is, you're able to click through the letters yourself.
 
